@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="p5:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/p5_jar2</output-path>
+    <root id="archive" name="p5.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$APPLICATION_HOME_DIR$/bin/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="p5" />
+    </root>
+  </artifact>
+</component>

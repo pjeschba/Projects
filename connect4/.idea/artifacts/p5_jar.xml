@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="p5:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/p5_jar</output-path>
+    <root id="archive" name="p5.jar">
+      <element id="module-output" name="p5" />
+    </root>
+  </artifact>
+</component>
